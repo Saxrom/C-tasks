@@ -1,0 +1,13 @@
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/bin/Debug/netcoreapp3.1/Methods_loops_aray.deps.json
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/bin/Debug/netcoreapp3.1/Methods_loops_aray.runtimeconfig.json
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/bin/Debug/netcoreapp3.1/Methods_loops_aray.runtimeconfig.dev.json
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/bin/Debug/netcoreapp3.1/Methods_loops_aray.dll
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/bin/Debug/netcoreapp3.1/Methods_loops_aray.pdb
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.csproj.AssemblyReference.cache
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.AssemblyInfo.cs
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.dll
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.pdb
+/Users/shahrom/Desktop/c#/Methods_loops_aray/Methods_loops_aray/obj/Debug/netcoreapp3.1/Methods_loops_aray.genruntimeconfig.cache
